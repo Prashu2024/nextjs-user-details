@@ -46,7 +46,7 @@ This is a **Next.js** application that displays a paginated user list fetched fr
 ## 📸 Screenshots
 | Desktop View | Mobile View |
 |-------------|------------|
-| ![Desktop](public/web.png) | ![Mobile](public/Mobile.png) |
+| ![Desktop](public/web.png) | ![Mobile](public/Mobile.jpg) |
 
 ## 🏗 Build & Deployment
 To build the project for production:
